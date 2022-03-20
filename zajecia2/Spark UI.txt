@@ -1,0 +1,8 @@
+1. Jobs - rozpisane wszystkie wykonane polecenia (tam, gdzie Spark rzeczywiście musiał zrobić coś więcej, niż plan wykonania) przez dany klaster wraz z podstawowymi informacjami
+2. Stages
+3. Storage - dane na temat pamięci 
+4. Environment - informacje na temat zmiennych "systemowych"
+5. Executors - dane o wykonawcach - procesorach na których przetwarzane są dane
+6. SQL - logi z operacji, do których wykonania konieczne było sięgnięcie do pamięci
+7. JDBC/ODBC Server - dane o aktywnych sesjach oraz wykonywanych komendach SQL
+8. Structured Streaming - 
